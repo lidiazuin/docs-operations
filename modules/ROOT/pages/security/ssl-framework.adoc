@@ -4,7 +4,6 @@
 
 Neo4j supports the securing of communication channels using standard SSL/TLS technology.
 
-
 [[ssl-introduction]]
 == Introduction
 
